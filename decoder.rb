@@ -6,6 +6,7 @@ KEY = {
     5 => 'E',
     6=>  'H',
     7=> 'I',
+    8=> 'k',
 }
 
 # Define a method that takes an array of numbers to decode.
